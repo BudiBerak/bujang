@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Aizuu's Personal Web</title>
+        <title>Michael's Personal Web</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="icon" href="/aizuu.ico" />
       </Head>
@@ -33,32 +33,32 @@ export default function Home() {
                 <div className="flex items-center justify-center">
                   <img
                     className="h-32 rounded-full border-2 shadow-md border-gray-600 dark:border-white"
-                    src="https://24.media.tumblr.com/3cedd457c0d675d06687faadbe94f836/tumblr_msjfg4q4SM1sb41dmo1_r1_500.gif"
+                    src="https://cdn.discordapp.com/avatars/588951309772652586/f5cad0541356614fd1fe70c349964409.png?size=4096"
                     alt="profile"/>
                 </div>
                   <div className="text-3xl text-red-500 text-left leading-tight h-3">“</div>
                   <div className="mt-5 text-center dark:text-white leading-relaxed">
                   <p>
-                    Hey 🖐!! nice to meet you, you can call me Izuu (he/him), im just a newbie
-                    i like make some bugs, and unreadable codes lol, hmm but im currently learning JavaScript and TypeScript.
+                    Oh, Hi, Sup 🖐!! nice to meet you, Buddy. You can call me Michael (he/him). (Anyway, that's not my photo, it's.. umm.. uhh.. huufftt. Man, 
+                    i have crush on her, but.. huuuftt..😞. But she's very Pretty and Beautiful, right?❤).
                   </p>
                   <div className="text-3xl text-red-500 text-right leading-tight h-3 -mt-3">”</div>
                 </div>
                 <div className="w-full">
-                  <p className="text-md text-red-500 font-bold text-center">Aizuu</p>
-                  <p className="text-xs text-gray-500 text-center">Creator</p>
+                  <p className="text-md text-red-500 font-bold text-center">Michael</p>
+                  <p className="text-xs text-gray-500 text-center">Your Very Special Boo</p>
                 </div>
               </div>
               <div className="w-full p-2 border-t-2 dark:text-white">
                 <div className="flex items-center justify-around p-1 md:p-4 mt-5">
-                  <a href="https://discord.com/users/271576733168173057/">
+                  <a href="https://discord.com/users/588951309772652586/">
                     <span className="fab fa-discord fa-2x hover:opacity-50 cursor-pointer" aria-hidden="true"></span>
                   </a>
-                  <a href="https://github.com/iseizuu">
-                    <span className="fab fa-github fa-2x hover:opacity-50 cursor-pointer" aria-hidden="true"></span>
+                  <a href="https://www.youtube.com/channel/UCoxhAiwnPU9BJ_wXS2CaUAQ">
+                    <span className="fab fa-youtube-play fa-2x hover:opacity-50 cursor-pointer" aria-hidden="true"></span>
                   </a>
-                  <a href="https://twitter.com/aldyARAS">
-                    <span className="fab fa-twitter fa-2x hover:opacity-50 cursor-pointer" aria-hidden="true"></span>
+                  <a href="https://instagram.com/michxaael/">
+                    <span className="fab fa-instagram fa-2x hover:opacity-50 cursor-pointer" aria-hidden="true"></span>
                   </a>
                 </div>
               </div>
