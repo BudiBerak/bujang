@@ -19,7 +19,7 @@ export default function Home() {
       <Head>
         <title>Michael's Personal Web</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="icon" href="/aizuu.ico" />
+        <link rel="icon" href="/IMG_20220524_231841.png" />
       </Head>
       <div className="bg-blue-200 dark:bg-gray-700">
         <div className="min-w-screen min-h-screen flex items-center justify-center px-5 py-5">
